@@ -1,4 +1,4 @@
-package br.com.sistemadereparo.projetoapicommvvm.api
+package br.com.sistemadereparo.projetoapicommvvm.data.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

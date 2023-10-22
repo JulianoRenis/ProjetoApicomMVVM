@@ -1,6 +1,6 @@
-package br.com.sistemadereparo.projetoapicommvvm.api
+package br.com.sistemadereparo.projetoapicommvvm.data.api
 
-import br.com.sistemadereparo.projetoapicommvvm.model.Postagem
+import br.com.sistemadereparo.projetoapicommvvm.data.model.Postagem
 
 import retrofit2.Response
 import retrofit2.http.GET
